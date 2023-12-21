@@ -7,19 +7,14 @@ theme: light
 subtitles: embed
 voice: brooke
 ---
-![](Title Slide.png)
+
+![](Title Slide Background.png)
+
+```md
+Updating Old Man's Beard status
+```
 
 (pause: 4)
-
-<!-- ---
-![](Title Slide.png)
-
-(voice-speed: fast)
-Keya ora!
-
-> Kia ora!
-
-(voice-speed: normal) -->
 
 ---
 ![](CAMS Weed App.png)
@@ -36,13 +31,19 @@ We'd love your help to check some of them and update this map.
 
 This video shows you how to find these patches and update their status.
 
-<!-- ---
+---
 
-(video:
-  file: Intro.mov
-  volume: 2.0) -->
+![](Background Slide.png)
+
+```md
+# Finding known weed patches
+```
+
+(pause: 2)
 
 ---
+
+![](Background Slide.png)
 
 ```md
 [cams.econet.nz/weed-app-device-public](https://cams.econet.nz/weed-app-device-public)
@@ -52,7 +53,9 @@ The first thing you need to do is install our map on your mobile device by openi
 
 You can also find this URL in the description below.
 
-Opening the URL will prompt you to install an application called Field Maps if you don't have it already. It will then open the map. 
+Opening the URL will prompt you to install an application called ArcGIS Field Maps if you don't have it already. It will then open the map. 
+
+In future, you can just open Field Maps and it will show the map that you last opened.
 ---
 
 ![](Field Maps Initial.png)
@@ -61,6 +64,38 @@ You'll notice a lot of different coloured markers on the map.
 
 Each marker represents a weed patch and is coloured to show the current known status of the patch. 
 
+---
+
+![](Background Slide.png)
+
+```md
+
+* Purple - the patch needs checking
+* Red - growth is occurring which needs controlling
+* Yellow - the patch has been controlled this year
+* Green - there is no regrowth this year
+```
+
+The common colours are:
+
+> The common colours are:
+
+Purple. The patch needs checking.
+
+> Purple - the patch needs checking
+
+Red. Growth is occurring which needs controlling.
+
+> Red - growth is occurring which needs controlling
+
+Yellow. The patch has been controlled this year.
+
+> Yellow - the patch has been controlled this year
+
+Green. There is no regrowth this year.
+
+> Green - there is no regrowth this year
+  
 ---
 (narration-mode: fragment)
 
@@ -144,6 +179,16 @@ If you need more info to help find it, click on the link under iNaturalist URL.
 This will open the iNaturalist page which will show more details including photos to help you find it.
 
 ---
+
+![](Background Slide.png)
+
+```md
+# Finding known weed patches in action
+```
+
+(pause: 2)
+
+---
 (video:
   file: OMB Mortimer.mp4
   segment: 00:00-00:23
@@ -199,7 +244,15 @@ Walking around above the bank the new growth is a bit more clear.
 
 I'll need to update the map to show that it is still alive. 
 
-How do I do that Brooke?
+---
+
+![](Background Slide.png)
+
+```md
+# Updating the status of weed patches
+```
+
+(pause: 2)
 
 ---
 ![](iNaturalist screenshot.png)
@@ -208,15 +261,19 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 
 ---
 
+![](Background Slide.png)
+
 ```md
 [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
 ```
 
 You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist, if you're not already.
 
-Open the URL shown above (also in the description below), then click on "Yes, I want to join".
+Open the URL shown above (which is also in the description below), then click on "Yes, I want to join".
 
 ---
+
+![](Background Slide.png)
 
 ```md
 [cams.econet.nz/weed-app-browser-public](https://cams.econet.nz/weed-app-browser-public)
@@ -224,7 +281,7 @@ Open the URL shown above (also in the description below), then click on "Yes, I 
 
 To update the weed status, you'll need to use a web browser. At the moment you can't do this on the mobile app.
 
-Open up a browser and enter the URL displayed above.
+Open up a browser and enter the URL displayed above. 
 
 You can also find this URL in the description below.
 
@@ -275,7 +332,7 @@ This opens up the iNaturalist observation that we need to update.
 
 To update the observation you'll need to be logged in to an iNaturalist account. 
 
-If you're not already, click on the link in the top right to Log In. 
+If you're not already, click on the Log In link in the top right to Log In. 
 
 ---
 (video:
@@ -295,7 +352,7 @@ This observation is already part of the project so we click on the cog next to t
   segment: 00:14-00:43
   sync: match)
 
-Update any of the fields that need modifying, clicking the "Add" button next to each modified field to save your changes.
+Update any of the fields that need modifying, clicking the Add button next to each modified field to save your changes.
 
 ---
 (video:
@@ -303,9 +360,19 @@ Update any of the fields that need modifying, clicking the "Add" button next to 
   segment: 00:43-00:52
   sync: match)
 
-At the bottom of the list, update the "Status update" field to show whether it is now alive or dead and update the "Date of status update" field. 
+At the bottom of the list, update the Status Update field to show whether it is now alive or dead and update the Date of Status Update field. 
 
 Remember to click the Add button next to each changed field.
+
+---
+
+![](Background Slide.png)
+
+```md
+# Controlling the weed
+```
+
+(pause: 2)
 
 ---
 (video:
@@ -315,18 +382,30 @@ Remember to click the Add button next to each changed field.
 
 If you control the weed, please fill out at least the "Treated?", "Date controlled", "How treated" and "Treatment substance" fields. 
 
-You don't need to update the "Status update" field in this case, the status will automatically changed based on the treatment fields you have filled in.
+You don't need to update the "Status update" field in this case, the status will automatically change based on the treatment fields you have filled in.
 
 ---
 ![](OMB Mortimer updated.png)
+
+---
+
+![](Background Slide.png)
+
+```md
+# CONGRATULATIONS!!
+```
 
 CONGRATULATIONS!!
 
 You have now updated the status of this weed patch.
 
+---
+
+![](OMB Mortimer updated.png)
+
 The map will be updated to show the new status within an hour after you've made the change.
 
-You can check the updated map on either the mobile app or the browser app.
+You can check the updated map on either the mobile app or via the browser.
 
 If it's not updated, check that you filled in the fields shown in this video. 
 
@@ -349,7 +428,12 @@ Updating the status might seem like a lot of work to start with, but it quickly 
 In time, we hope to develop an app to make this easier.
 
 ---
+
+![](Background Slide.png)
+
 ```md
+Please send feedback or questions to:
+
 [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
 ```
 
@@ -358,7 +442,12 @@ We hope this video has been useful and you will help us update the status of our
 This will help us prioritise our work towards an Old Man's Beard Free Wellington.
 
 ---
+
+![](Background Slide.png)
+
 ```md
+Please send feedback or questions to:
+
 [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
 ```
 
@@ -366,6 +455,6 @@ Please email us questions or feedback at kiaora@`omb`free.nz.
 
 > Please email us questions or feedback at kiaora@ombfree.nz.
 
-Thanks!
+Thanks for watching!
 
-> Thanks!
+> Thanks for watching!
