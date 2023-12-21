@@ -172,7 +172,7 @@ If there's a few weeds reported nearby, you'll see a list of all the weeds, so w
 
 You'll see some basic information about the weed and possibly some location details.
 
-The GPS position isn't always right, so you may need to hunt around a bit to find it.
+The GPS position isn't always right, so you may need to hunt around a bit to find the Old Man's Beard.
 
 If you need more info to help find it, click on the link under iNaturalist URL. 
 
@@ -267,7 +267,7 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
 ```
 
-You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist, if you're not already.
+You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist if you're not already.
 
 Open the URL shown above (which is also in the description below), then click on "Yes, I want to join".
 
