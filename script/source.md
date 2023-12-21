@@ -7,16 +7,40 @@ theme: light
 subtitles: embed
 voice: brooke
 ---
-
 ![](Title Slide.png)
 
 (pause: 4)
 
+<!-- ---
+![](Title Slide.png)
+
+(voice-speed: fast)
+Keya ora!
+
+> Kia ora!
+
+(voice-speed: normal) -->
+
 ---
+![](CAMS Weed App.png)
+
+Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage and track our efforts to control Old Man's Beard.
+
+This map is colour coded to show which patches need control; which have been controlled; and which need checking. 
+
+The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
+
+With over 3,000 reported Old Man's Beard patches, we can't check them all.
+
+We'd love your help to check some of them and update this map. 
+
+This video shows you how to find these patches and update their status.
+
+<!-- ---
 
 (video:
   file: Intro.mov
-  volume: 2.0)
+  volume: 2.0) -->
 
 ---
 
@@ -24,7 +48,7 @@ voice: brooke
 [cams.econet.nz/weed-app-device-public](https://cams.econet.nz/weed-app-device-public)
 ```
 
-Hi, the first thing you need to do is install our map on your mobile device by opening the URL displayed above. 
+The first thing you need to do is install our map on your mobile device by opening the URL displayed above. 
 
 You can also find this URL in the description below.
 
@@ -35,7 +59,7 @@ Opening the URL will prompt you to install an application called Field Maps if y
 
 You'll notice a lot of different coloured markers on the map. 
 
-Each marker represents a weed patch and is coloured to show the current status of the patch. 
+Each marker represents a weed patch and is coloured to show the current known status of the patch. 
 
 ---
 (narration-mode: fragment)
@@ -320,7 +344,7 @@ Also check you have clicked the Add button next to each modified field.
 )
 Checking this map, we see this dot has turned to "Red" to show there is active growth.
 
-This might seem like a lot of work to start with, but it quickly becomes second nature.
+Updating the status might seem like a lot of work to start with, but it quickly becomes second nature.
 
 In time, we hope to develop an app to make this easier.
 
@@ -333,10 +357,15 @@ We hope this video has been useful and you will help us update the status of our
 
 This will help us prioritise our work towards an Old Man's Beard Free Wellington.
 
+---
+```md
+[kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+```
+
 Please email us questions or feedback at kiaora@`omb`free.nz.
 
-Thanks a lot!
+> Please email us questions or feedback at kiaora@ombfree.nz.
 
+Thanks!
 
-
-
+> Thanks!
