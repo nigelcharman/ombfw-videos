@@ -53,7 +53,11 @@ The first thing you need to do is install our map on your mobile device by openi
 
 You can also find this URL in the description below.
 
-Opening the URL will prompt you to install an application called ArcGIS Field Maps if you don't have it already. It will then open the map. 
+Opening the URL will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
+
+After ArcGIS Field Maps is installed, select the option to "Skip sign in".
+
+Then open the URL above again and it will show the map. Select the option to enable location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 ---
