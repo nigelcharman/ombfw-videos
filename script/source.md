@@ -11,7 +11,7 @@ voice: brooke
 ![](Title Slide Background.png)
 
 ```md
-Updating Old Man's Beard status
+# Updating Old Man's Beard status
 ```
 
 (pause: 4)
