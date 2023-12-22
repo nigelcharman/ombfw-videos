@@ -60,6 +60,7 @@ After ArcGIS Field Maps is installed, select the option to "Skip sign in".
 Then open the URL above again and it will show the map. Select the option to enable location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
+
 ---
 
 ![](Field Maps Initial.png)
