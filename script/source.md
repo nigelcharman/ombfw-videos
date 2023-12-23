@@ -22,7 +22,7 @@ voice-speed: 1.1
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage and track our efforts to control Old Man's Beard.
 
-This map is colour coded to show which patches need control; which have been controlled; and which need checking. 
+This map is colour coded to show which patches need control, which have been controlled, and which need checking. 
 
 The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
 
@@ -74,13 +74,17 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 ![](Background Slide.png)
 
+(font-size: 80)
+
 ```md
 
-## * Purple - the patch needs checking
-## * Red - growth is occurring which needs controlling
-## * Yellow - the patch has been controlled this year
-## * Green - there is no regrowth this year
+* Purple - the patch needs checking
+* Red - growth is occurring which needs controlling
+* Yellow - the patch has been controlled this year
+* Green - there is no regrowth this year
 ```
+
+(font-size: 50)
 
 The common colours are:
 
@@ -113,7 +117,7 @@ Green. There is no regrowth this year.
   cy: 76
   size: 40
 )
-To see a legend with the meaning of each colour, click on the vertical ellipses (also known as the kebab icon) in the top right.
+To see a legend with the meaning of each colour, click on the vertical ellipses in the top right.
 
 ---
 ![](Field Maps Kebab Menu.png)
