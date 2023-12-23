@@ -6,6 +6,7 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: embed
 voice: brooke
+voice-speed: 1.1
 ---
 
 ![](Title Slide Background.png)
@@ -337,7 +338,7 @@ This opens up the iNaturalist observation that we need to update.
 
 To update the observation you'll need to be logged in to an iNaturalist account. 
 
-If you're not already, click on the Log In link in the top right to Log In. 
+If you're not already, click on the link in the top right to Log In. 
 
 ---
 (video:
@@ -430,7 +431,7 @@ Checking this map, we see this dot has turned to "Red" to show there is active g
 
 Updating the status might seem like a lot of work to start with, but it quickly becomes second nature.
 
-In time, we hope to develop an app to make this easier.
+In time, we hope to develop an app to make this easier on your mobile.
 
 ---
 
