@@ -76,10 +76,10 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 ```md
 
-* Purple - the patch needs checking
-* Red - growth is occurring which needs controlling
-* Yellow - the patch has been controlled this year
-* Green - there is no regrowth this year
+## * Purple - the patch needs checking
+## * Red - growth is occurring which needs controlling
+## * Yellow - the patch has been controlled this year
+## * Green - there is no regrowth this year
 ```
 
 The common colours are:
@@ -270,7 +270,7 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 ![](Background Slide.png)
 
 ```md
-[https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
+## [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
 ```
 
 You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist if you're not already.
@@ -398,10 +398,10 @@ You don't need to update the "Status update" field in this case, the status will
 ![](Background Slide.png)
 
 ```md
-# CONGRATULATIONS!!
+# Congratulations!
 ```
 
-CONGRATULATIONS!!
+Congratulations!
 
 You have now updated the status of this weed patch.
 
@@ -438,9 +438,9 @@ In time, we hope to develop an app to make this easier on your mobile.
 ![](Background Slide.png)
 
 ```md
-Please send feedback or questions to:
+## Please send feedback or questions to:
 
-[kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
 ```
 
 We hope this video has been useful and you will help us update the status of our weed patches.
@@ -452,9 +452,9 @@ This will help us prioritise our work towards an Old Man's Beard Free Wellington
 ![](Background Slide.png)
 
 ```md
-Please send feedback or questions to:
+## Please send feedback or questions to:
 
-[kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
 ```
 
 Please email us questions or feedback at kiaora@`omb`free.nz.
