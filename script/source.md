@@ -47,7 +47,7 @@ This video shows you how to find these patches and update their status.
 ![](Background Slide.png)
 
 ```md
-[cams.econet.nz/weed-app-device-public](https://cams.econet.nz/weed-app-device-public)
+## [cams.econet.nz/weed-app-device-public](https://cams.econet.nz/weed-app-device-public)
 ```
 
 The first thing you need to do is install our map on your mobile device by opening the URL displayed above. 
@@ -282,7 +282,7 @@ Open the URL shown above (which is also in the description below), then click on
 ![](Background Slide.png)
 
 ```md
-[cams.econet.nz/weed-app-browser-public](https://cams.econet.nz/weed-app-browser-public)
+## [cams.econet.nz/weed-app-browser-public](https://cams.econet.nz/weed-app-browser-public)
 ```
 
 To update the weed status, you'll need to use a web browser. At the moment you can't do this on the mobile app.
