@@ -26,7 +26,7 @@ This map is colour coded to show which patches need control, which have been con
 
 The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
 
-With over 3,000 reported Old Man's Beard patches, we can't check them all.
+With over 3,000 reported Old Man's Beard patches, we can't check them all!
 
 We'd love your help to check some of them and update this map. 
 
@@ -47,18 +47,14 @@ This video shows you how to find these patches and update their status.
 ![](Background Slide.png)
 
 ```md
-## [cams.econet.nz/weed-app-device-public](https://cams.econet.nz/weed-app-device-public)
+## Open the **CAMS public device map** link in the description below
 ```
 
-The first thing you need to do is install our map on your mobile device by opening the URL displayed above. 
+The first thing you need to do is install our map on your mobile device by clicking on the link in the description below. 
 
-You can also find this URL in the description below.
+Opening the link will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
 
-Opening the URL will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
-
-After ArcGIS Field Maps is installed, select the option to "Skip sign in".
-
-Then open the URL above again and it will show the map. Select the option to enable location while using the app.
+Then open the link again and it will show the map. Select the option to enable location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 
@@ -137,6 +133,8 @@ then select "Legend".
 ![](Field Maps Legend.png)
 
 This shows the legend at the bottom of the page. 
+
+Scroll down to see all the colours.
 
 ---
 ![](Field Maps Legend.png)
@@ -279,21 +277,19 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 
 You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist if you're not already.
 
-Open the URL shown above (which is also in the description below), then click on "Yes, I want to join".
+Open the link shown above (which is also in the description below), then click on "Yes, I want to join".
 
 ---
 
 ![](Background Slide.png)
 
 ```md
-## [cams.econet.nz/weed-app-browser-public](https://cams.econet.nz/weed-app-browser-public)
+## Open the **CAMS public browser map** link - [cams.econet.nz/weed-app-browser-public](cams.econet.nz/weed-app-browser-public)
 ```
 
 To update the weed status, you'll need to use a web browser. At the moment you can't do this on the mobile app.
 
-Open up a browser and enter the URL displayed above. 
-
-You can also find this URL in the description below.
+Open the link shown above in a browser. The link is also in the description below. 
 
 ---
 (video:
