@@ -20,9 +20,9 @@ voice: brooke
 ---
 ![](CAMS Weed App.png)
 
-Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage and track our efforts to control Old Man's Beard.
+Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage our efforts to control Old Man's Beard.
 
-This map is colour coded to show which patches need control, which ones have been controlled, and which patches need checking. 
+This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking. 
 
 ---
 ![](CAMS Weed App.png)
@@ -96,19 +96,11 @@ The common colours are:
 
 Purple shows that the patch needs checking.
 
-> Purple - the patch needs checking
-
 Red shows that growth is occurring which needs controlling.
-
-> Red - growth is occurring which needs controlling
 
 Yellow shows that the patch has been controlled this year.
 
-> Yellow - the patch has been controlled this year
-
-Green shows that there is no regrowth this year.
-
-> Green - there is no regrowth this year
+And a green dot shows that there is no regrowth this year.
   
 ---
 (narration-mode: fragment)
@@ -164,7 +156,7 @@ Click *X* to close the Legend.
   cy: 200
   size: 40
 )
-To zoom into your location, click on the circle icon in the top right to centre the map. 
+To zoom into your location, click on the circle icon in the top right. 
 
 ---
 ![00:04-00:13](Field Maps Zoom.mp4)
@@ -176,7 +168,7 @@ We're interested in updating the status of the "Purple - Please Check" dots.
 ---
 ![00:00-00:06](Field Maps OMB.mp4)
 
-Click on any of the purple Old Man's Beard symbols. The map shows multiple species, so make sure it's Old Man's Beard you've clicked on.
+Click on any of the purple Old Man's Beard symbols.
 
 If there's a few weeds reported nearby, you'll see a list of all the weeds, so work through them one by one.
 
@@ -192,7 +184,7 @@ The GPS position isn't always right, so you may need to hunt around to find the 
 
 If you need more info to help find it, click on the link under iNaturalist URL. 
 
-This will open the iNaturalist page which will show more details including photos to help you find it.
+This will open the iNaturalist page which shows more details, including photos, to help you find it.
 
 ---
 
@@ -298,7 +290,7 @@ Open the link shown above (which is also in the description below), then click o
 ```
 To update the weed status, you'll need to use a web browser. At the moment you can't update the status on the mobile app.
 
-Click on the public browser map link in the description below to open it in a browser. 
+Click on the public browser map link in the description below to open it. 
 
 ---
 (video:
