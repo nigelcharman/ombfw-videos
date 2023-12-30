@@ -6,7 +6,7 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: embed
 voice: brooke
-voice-speed: 1.1
+# voice-speed: 1.1
 ---
 
 ![](Title Slide Background.png)
@@ -22,9 +22,17 @@ voice-speed: 1.1
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage and track our efforts to control Old Man's Beard.
 
-This map is colour coded to show which patches need control, which have been controlled, and which need checking. 
+This map is colour coded to show which patches need control, which ones have been controlled, and which patches need checking. 
 
-The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
+---
+![](CAMS Weed App.png)
+
+The weed status is reset to "Purple - Please Check" each Spring, so that we check for any re-growth or seedlings.
+
+> The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
+
+---
+![](CAMS Weed App.png)
 
 With over 3,000 reported Old Man's Beard patches, we can't check them all!
 
@@ -47,7 +55,7 @@ This video shows you how to find these patches and update their status.
 ![](Background Slide.png)
 
 ```md
-## Open the **CAMS public device map** link in the description below
+## Open the **CAMS public device map** 
 ```
 
 The first thing you need to do is install our map on your mobile device by clicking on the link in the description below. 
@@ -86,19 +94,19 @@ The common colours are:
 
 > The common colours are:
 
-Purple. The patch needs checking.
+Purple shows that the patch needs checking.
 
 > Purple - the patch needs checking
 
-Red. Growth is occurring which needs controlling.
+Red shows that growth is occurring which needs controlling.
 
 > Red - growth is occurring which needs controlling
 
-Yellow. The patch has been controlled this year.
+Yellow shows that the patch has been controlled this year.
 
 > Yellow - the patch has been controlled this year
 
-Green. There is no regrowth this year.
+Green shows that there is no regrowth this year.
 
 > Green - there is no regrowth this year
   
@@ -134,7 +142,7 @@ then select "Legend".
 
 This shows the legend at the bottom of the page. 
 
-Scroll down to see all the colours.
+Scroll down to see the meaning of all the colours.
 
 ---
 ![](Field Maps Legend.png)
@@ -178,9 +186,9 @@ If there's a few weeds reported nearby, you'll see a list of all the weeds, so w
   segment: 00:07-00:16
   sync: match)
 
-You'll see some basic information about the weed and possibly some location details.
+This may show some basic information about the weed patch including its location.
 
-The GPS position isn't always right, so you may need to hunt around a bit to find the Old Man's Beard.
+The GPS position isn't always right, so you may need to hunt around to find the Old Man's Beard.
 
 If you need more info to help find it, click on the link under iNaturalist URL. 
 
@@ -206,9 +214,9 @@ This will open the iNaturalist page which will show more details including photo
 
 Let's try finding a known Old Man's Beard patch.
 
-Once Field Maps has been installed, opening Field Maps will default to showing our CAMS map.
+Opening ArcGIS Field Maps, it shows the CAMS map.
 
-After zooming in to my current location, I see I need to walk down the road a bit to get to the Old Man's Beard patch.
+After zooming in to my current location, I see I need to walk down the road to get to the Old Man's Beard patch.
 
 ---
 (video:
@@ -232,7 +240,7 @@ That looks like the bank across the road from me.
 
 (voice: keith)
 
-Let's click on the photo, so I can zoom in and see where the Old Man's Beard is in the photo.
+Let's click on the photo, so I can zoom in and see where the Old Man's Beard is.
 
 There it is on the top right of the bank.
 
@@ -241,7 +249,9 @@ There it is on the top right of the bank.
 
 (voice: keith)
 
-Looking around the bank now, the Old Man's Beard vines seem to have been mostly controlled. But I can see some regrowth at the top of the bank.
+Looking around the bank now, the Old Man's Beard vines seem to have been mostly controlled. 
+
+But I can see some regrowth at the top of the bank.
 
 ---
 ![](OMB Mortimer 2.jpeg)
@@ -265,17 +275,17 @@ I'll need to update the map to show that it is still alive.
 ---
 ![](iNaturalist screenshot.png)
 
-In order to update an observation, you'll need to have an iNaturalist account. If you don't have one, sign up at iNaturalist.org.
+In order to update an observation, you'll need to have an iNaturalist account. If you don't have one already, sign up at iNaturalist.org.
 
 ---
 
 ![](Background Slide.png)
 
 ```md
-## [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
+### [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
 ```
 
-You'll also need to be a member of the "Weed Management Aotearoa NZ" project on iNaturalist if you're not already.
+You'll also need to be a member of the Weed Management Aotearoa NZ project on iNaturalist if you're not already.
 
 Open the link shown above (which is also in the description below), then click on "Yes, I want to join".
 
@@ -284,12 +294,11 @@ Open the link shown above (which is also in the description below), then click o
 ![](Background Slide.png)
 
 ```md
-## Open the **CAMS public browser map** link - [cams.econet.nz/weed-app-browser-public](cams.econet.nz/weed-app-browser-public)
+## Open the **CAMS public browser map** link
 ```
+To update the weed status, you'll need to use a web browser. At the moment you can't update the status on the mobile app.
 
-To update the weed status, you'll need to use a web browser. At the moment you can't do this on the mobile app.
-
-Open the link shown above in a browser. The link is also in the description below. 
+Click on the public browser map link in the description below to open it in a browser. 
 
 ---
 (video:
@@ -336,7 +345,7 @@ This opens up the iNaturalist observation that we need to update.
   segment: 00:39-00:39.1
   sync: match)
 
-To update the observation you'll need to be logged in to an iNaturalist account. 
+To update the observation you'll need to be logged in to your iNaturalist account. 
 
 If you're not already, click on the link in the top right to Log In. 
 
@@ -348,9 +357,9 @@ If you're not already, click on the link in the top right to Log In.
 
 Add the observation to the Weed Management Aotearoa NZ project, if it's not already added. 
 
-To add it, type "Weed" into the "Add to a Project" field and select Weed Management Aotearoa NZ.
+To add it, type *Weed* into the Add to a Project field and select Weed Management Aotearoa NZ.
 
-This observation is already part of the project so we click on the cog next to the project name and select the "Fill out project observation fields" option.
+This observation is already part of the project so we click on the cog next to the project name and select the *Fill out project observation fields* option.
 
 ---
 (video:
@@ -388,7 +397,7 @@ Remember to click the Add button next to each changed field.
 
 If you control the weed, please fill out at least the "Treated?", "Date controlled", "How treated" and "Treatment substance" fields. 
 
-You don't need to update the "Status update" field in this case, the status will automatically change based on the treatment fields you have filled in.
+You don't need to update the *Status update* field in this case, the status will automatically change based on the treatment fields you have filled in.
 
 ---
 ![](OMB Mortimer updated.png)
@@ -431,7 +440,7 @@ Checking this map, we see this dot has turned to "Red" to show there is active g
 
 Updating the status might seem like a lot of work to start with, but it quickly becomes second nature.
 
-In time, we hope to develop an app to make this easier on your mobile.
+In time, we hope to develop a mobile app to make this easier.
 
 ---
 
