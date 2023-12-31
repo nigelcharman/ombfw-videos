@@ -4,7 +4,7 @@ asset-resize: contain
 transition: crossfade 0.2
 background: ukulele-1 0.4 fade-in fade-out
 theme: light
-subtitles: embed
+subtitles: external
 voice: brooke
 # voice-speed: 1.1
 ---
