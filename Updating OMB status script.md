@@ -62,7 +62,7 @@ The first thing you need to do is install our map on your mobile device by click
 
 Opening the link will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
 
-Then open the link again and it will show the map. Select the option to "Enable Location" while using the app.
+Then open the link again and it will show the map. Select the option to allow Field Maps to access tge device's location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 
