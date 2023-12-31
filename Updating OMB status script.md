@@ -92,13 +92,13 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 The common colours are:
 
-Purple shows that the patch needs checking.
+Purple - the patch needs checking
 
-Red shows that growth is occurring which needs controlling.
+Red - growth is occurring which needs controlling
 
-Yellow shows that the patch has been controlled this year.
+Yellow - the patch has been controlled this year, and
 
-And a green dot shows that there is no regrowth this year.
+Green - there is no regrowth this year
   
 ---
 (narration-mode: fragment)
