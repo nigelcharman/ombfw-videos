@@ -22,10 +22,6 @@ voice: brooke
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage our efforts to control Old Man's Beard.
 
-Hi! On our mission to make Wellington Old Man's Beard Free, we need to check the status of all known Old Man's Beard patches.
-
-We're using the CAMS weed map to track the staus of each patch.
-
 This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking. 
 
 ---
