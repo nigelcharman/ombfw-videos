@@ -20,7 +20,7 @@ voice: brooke
 ---
 ![](./images/CAMS/CAMS Weed App.png)
 
-Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage our efforts to control Old Man's Beard.
+Hi! On our mission to make Wellington Old Man's Beard Free, we're using the CAMS weed map to manage our efforts to control Old Man's Beard.
 
 This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking. 
 
