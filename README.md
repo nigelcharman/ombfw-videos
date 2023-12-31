@@ -1,61 +1,23 @@
-# Basic Narakeet example
+# Updating Old Man's Beard status video creation
 
-This example shows how the basic features of Narakeet.
+This repository contains the source files for creating the `Updating Old Man's Beard status` video. 
 
-Check out the outcome in [`result.mp4`](result.mp4).
+It uses video creation software called [Narakeet](https://www.narakeet.com/).
 
-## Try it out
+## Folder structure
 
-Upload the [`script`](script) directory to a Narakeet project. The main script file is [`source.md`](script/source.md).
+The main script is [Updating OMB status script.md](Updating OMB status script.md). 
 
-## How it works
+View [the getting started guide](https://www.narakeet.com/docs/script/) to understand the syntax of this script, or the [formatting reference](https://www.narakeet.com/docs/format/) to see all options.
 
-Narakeet creates a video from one or scenes. Each scene can include videos, images, audio or narration. 
+The script uses files under [images](./images/) and [videos](./videos/).
 
-### Adding images and videos
+## Video creation
 
-In the Markdown script file format, you can add images or videos by using the standard Markdown syntax (`![](file)`). 
+You can either create the video through the Narakeet user interface, or using GitHub Actions. 
 
-```md
-![](london.jpg)
-```
+### Building using GitHub Actions
 
-### Adding narration
+This repository contains a [workflow](./.github/workflows/make_omb_status_video.yml) which is triggered whenever changes are pushed to the main branch. It can also be triggered manually.
 
-Narakeet automatically generates narration from scene text. The following scene will include an image, and automatically generated voice narration:
-
-```md
-![](london.jpg)
-
-Welcome to London
-```
-
-### Using your audio
-
-Instead of automatically generated narration, you can add your own audio files, with recorded voice, music or something else to play during a scene. To do so, just add `(audio: file)` in a separate paragraph. For example, this scene will show an image from `london.jpg` and play the audio from `london-audio.mp3`:
-
-```md
-![](london.jpg)
-
-(audio: london-audio.mp3)
-```
-
-### Adding scenes
-
-To add more scenes, use three or more dashes (`---`) as a separator. The following script file creates two scenes:
-
-```md
-![](london.jpg)
-
-Welcome to London
-
----
-
-![](berlin.jpg)
-
-Welcome to Berlin
-```
-
-## More examples
-
-Next, check out the [voices](../voices/README.md) example to see how to control the narration voice, or the [subtitles](../subtitles/README.md) example for information on how to generate subtitles for your video.
+The resulting workflow run contains a link at the bottom of the page where the video can be downloaded.
