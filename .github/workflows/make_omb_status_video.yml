@@ -13,7 +13,7 @@ jobs:
     - uses: narakeet/build-video-github-action@v1.0.3
       id: video
       with:
-        source-path: script/source.md
+        source-path: Updating OMB status script.md
         github-token: ${{ secrets.GITHUB_TOKEN }}
         api-key: ${{ secrets.NARAKEET_API_KEY }}
     - uses: actions/upload-artifact@v1
