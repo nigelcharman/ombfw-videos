@@ -22,6 +22,10 @@ voice: brooke
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage our efforts to control Old Man's Beard.
 
+Hi! On our mission to make Wellington Old Man's Beard Free, we need to check the status of all known Old Man's Beard patches.
+
+We're using the CAMS weed map to track the staus of each patch.
+
 This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking. 
 
 ---
@@ -62,7 +66,7 @@ The first thing you need to do is install our map on your mobile device by click
 
 Opening the link will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
 
-Then open the link again and it will show the map. Select the option to enable location while using the app.
+Then open the link again and it will show the map. Select the option to "Enable Location" while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 
@@ -91,8 +95,6 @@ Each marker represents a weed patch and is coloured to show the current known st
 (font-size: 50)
 
 The common colours are:
-
-> The common colours are:
 
 Purple shows that the patch needs checking.
 
@@ -290,7 +292,7 @@ Open the link shown above (which is also in the description below), then click o
 ```
 To update the weed status, you'll need to use a web browser. At the moment you can't update the status on the mobile app.
 
-Click on the public browser map link in the description below to open it. 
+Click on the CAMS public browser map link in the description below to open it. 
 
 ---
 (video:
@@ -313,7 +315,7 @@ After agreeing to the terms and conditions, this will open the map.
   segment: 00:13-00:23
   sync: match)
 
-We can either zoom and scroll or type in a nearby address to find the weed location. 
+We can either zoom and scroll or enter a nearby address to find the weed location. 
 
 ---
 (video:

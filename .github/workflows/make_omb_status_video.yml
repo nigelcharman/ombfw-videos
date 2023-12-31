@@ -1,8 +1,9 @@
-name: Make videos
+name: Create "Update Old Man's Beard status" video
 on:
   workflow_dispatch:
   push:
-    branches: [ $default-branch ]
+    branches:
+      - main
   # pull_request:
   #   branches: [ $default-branch ]
   
