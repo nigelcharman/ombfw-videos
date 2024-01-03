@@ -27,9 +27,9 @@ This map is colour coded to show which patches need control, which patches have 
 ---
 ![](CAMS Weed App.png)
 
-The weed status is reset to "Purple - Please Check" each Spring, so that we check for any re-growth or seedlings.
+The weed status is reset to "Purple - Please Check" each Spring, so that the weed patches are checked for re-growth or seedlings.
 
-> The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
+> The weed status is reset to "Purple - Please Check" each Spring, so that the weed patches are checked for regrowth or seedlings.
 
 ---
 ![](CAMS Weed App.png)
@@ -58,13 +58,15 @@ This video shows you how to find these patches and update their status.
 ## Open the **CAMS public device map** 
 ```
 
-This section shows you how to 
+This section shows you how to install the map on your mobile device. 
 
-The first thing you need to do is install our map on your mobile device by clicking on the link in the description below. 
+The "CAMS public device map" link is in the description below. Open this link on your mobile.
 
-Opening the link will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
+Firstly it will install an application called ArcGIS Field Maps if you don't have it already.
 
-Then open the link again and it will show the map. Select the option to allow Field Maps to access the device's location while using the app.
+Then open the link again and it will show the map. 
+
+Select the option to allow Field Maps to access the device's location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 
@@ -94,13 +96,13 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 The common colours are:
 
-Purple. The patch needs checking.
+Purple: The patch needs checking.
 
-Red. Growth is occurring which needs controlling.
+Red: Growth is occurring which needs controlling.
 
-Yellow. The patch has been controlled this year
+Yellow: The patch has been controlled this year
 
-And Green. There is no regrowth this year.
+And Green: There is no regrowth this year.
   
 ---
 (narration-mode: fragment)
@@ -170,9 +172,9 @@ We're interested in updating the status of the "Purple - Please Check" dots.
 
 Click on the relevant weed symbol.
 
-If there's a few weed symbols close together, they may show up as a list. 
+If there's a few weed markers close together, they may show up as a list. 
 
-You can either zoom in further and click on the symbol, or work through the list until the relevant symbol is highlighted.
+You can either zoom in further and click on the marker, or work through the list until the relevant marker is highlighted.
 
 ---
 (video:
