@@ -9,7 +9,7 @@ voice: brooke
 # voice-speed: 1.1
 ---
 
-![](./images/ombfree/Title Slide Background.png)
+![](Title Slide Background.png)
 
 ```md
 # Updating Old Man's Beard status
@@ -18,21 +18,21 @@ voice: brooke
 (pause: 4)
 
 ---
-![](./images/CAMS/CAMS Weed App.png)
+![](CAMS Weed App.png)
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we've created a map to manage our efforts to control Old Man's Beard.
 
 This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking. 
 
 ---
-![](./images/CAMS/CAMS Weed App.png)
+![](CAMS Weed App.png)
 
 The weed status is reset to "Purple - Please Check" each Spring, so that we check for any re-growth or seedlings.
 
 > The weed status is reset to "Purple - Please Check" each Spring, so that we check for any regrowth or seedlings.
 
 ---
-![](./images/CAMS/CAMS Weed App.png)
+![](CAMS Weed App.png)
 
 With over 3,000 reported Old Man's Beard patches, we can't check them all!
 
@@ -42,7 +42,7 @@ This video shows you how to find these patches and update their status.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 # Finding known weed patches
@@ -52,23 +52,25 @@ This video shows you how to find these patches and update their status.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 ## Open the **CAMS public device map** 
 ```
 
+This section shows you how to 
+
 The first thing you need to do is install our map on your mobile device by clicking on the link in the description below. 
 
 Opening the link will prompt you to install an application called ArcGIS Field Maps if you don't have it already.
 
-Then open the link again and it will show the map. Select the option to allow Field Maps to access tge device's location while using the app.
+Then open the link again and it will show the map. Select the option to allow Field Maps to access the device's location while using the app.
 
 In future, you can just open Field Maps and it will show the map that you last opened.
 
 ---
 
-![](./images/CAMS/Field Maps Initial.png)
+![](Field Maps Initial.png)
 
 You'll notice a lot of different coloured markers on the map. 
 
@@ -76,7 +78,7 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 (font-size: 80)
 
@@ -92,18 +94,18 @@ Each marker represents a weed patch and is coloured to show the current known st
 
 The common colours are:
 
-Purple - the patch needs checking
+Purple. The patch needs checking.
 
-Red - growth is occurring which needs controlling
+Red. Growth is occurring which needs controlling.
 
-Yellow - the patch has been controlled this year, and
+Yellow. The patch has been controlled this year
 
-Green - there is no regrowth this year
+And Green. There is no regrowth this year.
   
 ---
 (narration-mode: fragment)
 
-![](./images/CAMS/Field Maps Initial.png)
+![](Field Maps Initial.png)
 
 (callout:
   type: circle
@@ -114,7 +116,7 @@ Green - there is no regrowth this year
 To see a legend with the meaning of each colour, click on the vertical ellipses in the top right.
 
 ---
-![](./images/CAMS/Field Maps Kebab Menu.png)
+![](Field Maps Kebab Menu.png)
 
 (callout:
   type: rectangle
@@ -128,14 +130,14 @@ then select "Legend".
 ---
 (narration-mode: normal)
 
-![](./images/CAMS/Field Maps Legend.png)
+![](Field Maps Legend.png)
 
 This shows the legend at the bottom of the page. 
 
 Scroll down to see the meaning of all the colours.
 
 ---
-![](./images/CAMS/Field Maps Legend.png)
+![](Field Maps Legend.png)
 
 (callout:
   type: circle
@@ -146,7 +148,7 @@ Scroll down to see the meaning of all the colours.
 Click *X* to close the Legend.
 
 ---
-![00:00-00:04](./videos/CAMS/Field Maps Zoom.mp4)
+![00:00-00:04](Field Maps Zoom.mp4)
 
 (callout:
   type: circle
@@ -157,28 +159,30 @@ Click *X* to close the Legend.
 To zoom into your location, click on the circle icon in the top right. 
 
 ---
-![00:04-00:13](./videos/CAMS/Field Maps Zoom.mp4)
+![00:04-00:13](Field Maps Zoom.mp4)
 
 You may need to zoom in further to get a clearer view.
 
 We're interested in updating the status of the "Purple - Please Check" dots.
 
 ---
-![00:00-00:06](./videos/CAMS/Field Maps OMB.mp4)
+![00:00-00:06](Field Maps OMB.mp4)
 
-Click on any of the purple Old Man's Beard symbols.
+Click on the relevant weed symbol.
 
-If there's a few weeds reported nearby, you'll see a list of all the weeds, so work through them one by one.
+If there's a few weed symbols close together, they may show up as a list. 
+
+You can either zoom in further and click on the symbol, or work through the list until the relevant symbol is highlighted.
 
 ---
 (video:
-  file: ./videos/CAMS/Field Maps OMB.mp4
+  file: Field Maps OMB.mp4
   segment: 00:07-00:16
   sync: match)
 
-This may show some basic information about the weed patch including its location.
+This will show some basic information about the weed patch including its location.
 
-The GPS position isn't always right, so you may need to hunt around to find the Old Man's Beard.
+The GPS position isn't always right, so you may need to hunt around to find the weed.
 
 If you need more info to help find it, click on the link under iNaturalist URL. 
 
@@ -186,7 +190,7 @@ This will open the iNaturalist page which shows more details, including photos, 
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 # Finding known weed patches in action
@@ -196,7 +200,7 @@ This will open the iNaturalist page which shows more details, including photos, 
 
 ---
 (video:
-  file: ./videos/CAMS/OMB Mortimer.mp4
+  file: OMB Mortimer.mp4
   segment: 00:00-00:23
   sync: match)
 
@@ -210,7 +214,7 @@ After zooming in to my current location, I see I need to walk down the road to g
 
 ---
 (video:
-  file: ./videos/CAMS/OMB Mortimer.mp4
+  file: OMB Mortimer.mp4
   segment: 00:23-00:38
   sync: match)
 
@@ -224,7 +228,7 @@ That looks like the bank across the road from me.
 
 ---
 (video:
-  file: ./videos/CAMS/OMB Mortimer.mp4
+  file: OMB Mortimer.mp4
   segment: 00:46-00:55
   sync: match)
 
@@ -235,7 +239,7 @@ Let's click on the photo, so I can zoom in and see where the Old Man's Beard is.
 There it is on the top right of the bank.
 
 ---
-![](./images/CAMS/OMB Mortimer 1.jpeg)
+![](OMB Mortimer 1.jpeg)
 
 (voice: keith)
 
@@ -244,7 +248,7 @@ Looking around the bank now, the Old Man's Beard vines seem to have been mostly 
 But I can see some regrowth at the top of the bank.
 
 ---
-![](./images/CAMS/OMB Mortimer 2.jpeg)
+![](OMB Mortimer 2.jpeg)
 
 (voice: keith)
 
@@ -254,7 +258,7 @@ I'll need to update the map to show that it is still alive.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 # Updating the status of weed patches
@@ -263,13 +267,13 @@ I'll need to update the map to show that it is still alive.
 (pause: 2)
 
 ---
-![](./images/iNaturalist/iNaturalist screenshot.png)
+![](iNaturalist screenshot.png)
 
 In order to update an observation, you'll need to have an iNaturalist account. If you don't have one already, sign up at iNaturalist.org.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 ### [https://www.inaturalist.org/projects/weed-management-aotearoa-nz](https://www.inaturalist.org/projects/weed-management-aotearoa-nz)
@@ -281,7 +285,7 @@ Open the link shown above (which is also in the description below), then click o
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 ## Open the **CAMS public browser map** link
@@ -292,14 +296,14 @@ Click on the CAMS public browser map link in the description below to open it.
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:00-00:01)
 
 (pause: 1)
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:01-00:10
   sync: match)
 
@@ -307,7 +311,7 @@ After agreeing to the terms and conditions, this will open the map.
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:13-00:23
   sync: match)
 
@@ -315,7 +319,7 @@ We can either zoom and scroll or enter a nearby address to find the weed locatio
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:23-00:33
   sync: match)
 
@@ -323,7 +327,7 @@ Having found it we click on the link next to the iNaturalist URL.
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:33-00:39
   sync: match)
 
@@ -331,7 +335,7 @@ This opens up the iNaturalist observation that we need to update.
 
 ---
 (video:
-  file: ./videos/CAMS/Opening CAMS browser.mov
+  file: Opening CAMS browser.mov
   segment: 00:39-00:39.1
   sync: match)
 
@@ -341,7 +345,7 @@ If you're not already, click on the link in the top right to Log In.
 
 ---
 (video:
-  file: ./videos/iNaturalist/Updating observation.mov
+  file: Updating observation.mov
   segment: 00:00-00:14
   sync: match)
 
@@ -353,7 +357,7 @@ This observation is already part of the project so we click on the cog next to t
 
 ---
 (video:
-  file: ./videos/iNaturalist/Updating observation.mov
+  file: Updating observation.mov
   segment: 00:14-00:43
   sync: match)
 
@@ -361,7 +365,7 @@ Update any of the fields that need modifying, clicking the Add button next to ea
 
 ---
 (video:
-  file: ./videos/iNaturalist/Updating observation.mov
+  file: Updating observation.mov
   segment: 00:43-00:52
   sync: match)
 
@@ -371,7 +375,7 @@ Remember to click the Add button next to each changed field.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 # Controlling the weed
@@ -381,7 +385,7 @@ Remember to click the Add button next to each changed field.
 
 ---
 (video:
-  file: ./videos/iNaturalist/Updating observation.mov
+  file: Updating observation.mov
   segment: 00:40-00:40.1
   sync: match)
 
@@ -391,7 +395,7 @@ You don't need to update the *Status update* field in this case, the status will
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 # Congratulations!
@@ -403,7 +407,7 @@ You have now updated the status of this weed patch.
 
 ---
 
-![](./images/CAMS/OMB Mortimer updated.png)
+![](OMB Mortimer updated.png)
 
 The map will be updated to show the new status within an hour after you've made the change.
 
@@ -414,7 +418,7 @@ If it's not updated, check that you filled in the fields shown in this video.
 Also check you have clicked the Add button next to each modified field.
 
 ---
-![](./images/CAMS/OMB Mortimer updated.png)
+![](OMB Mortimer updated.png)
 
 (callout:
   type: rectangle
@@ -431,7 +435,7 @@ In time, we hope to develop a mobile app to make this easier.
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 ## Please send feedback or questions to:
@@ -445,7 +449,7 @@ This will help us prioritise our work towards an Old Man's Beard Free Wellington
 
 ---
 
-![](./images/ombfree/Background Slide.png)
+![](Background Slide.png)
 
 ```md
 ## Please send feedback or questions to:
