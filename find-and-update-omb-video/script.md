@@ -9,7 +9,7 @@ voice: brooke
 # voice-speed: 1.1
 ---
 
-![](Title Slide Background.png)
+![](Background Slide - Title.png)
 
 ```md
 # Updating Old Man's Beard status
@@ -82,7 +82,7 @@ In future, you can just open Field Maps and it will show the map that you last o
 
 ---
 
-![](Field Maps Initial.png)
+![](CAMS Field Maps Initial.png)
 
 You'll notice a lot of different coloured markers on the map. 
 
@@ -107,7 +107,7 @@ The shape of the marker also indicates whether control work is needed or not. Di
 ---
 (narration-mode: fragment)
 
-![](Field Maps Initial.png)
+![](CAMS Field Maps Initial.png)
 
 (callout:
   type: circle
@@ -118,7 +118,7 @@ The shape of the marker also indicates whether control work is needed or not. Di
 To see a legend with all the colours, click on the vertical ellipses in the top right.
 
 ---
-![](Field Maps Kebab Menu.png)
+![](CAMS Field Maps Kebab Menu.png)
 
 (callout:
   type: rectangle
@@ -132,14 +132,14 @@ then select "Legend".
 ---
 (narration-mode: normal)
 
-![](Field Maps Legend.png)
+![](CAMS Field Maps Legend.png)
 
 This shows the legend at the bottom of the page. 
 
 Scroll down to see the meaning of all the colours.
 
 ---
-![](Field Maps Legend.png)
+![](CAMS Field Maps Legend.png)
 
 (callout:
   type: circle
@@ -150,7 +150,7 @@ Scroll down to see the meaning of all the colours.
 Click *X* to close the Legend.
 
 ---
-![00:00-00:04](Field Maps Zoom.mp4)
+![00:00-00:04](CAMS Field Maps Zoom.mp4)
 
 (callout:
   type: circle
@@ -161,14 +161,14 @@ Click *X* to close the Legend.
 To zoom into your location, click on the circle icon in the top right. 
 
 ---
-![00:04-00:13](Field Maps Zoom.mp4)
+![00:04-00:13](CAMS Field Maps Zoom.mp4)
 
 You may need to zoom in further to get a clearer view.
 
 We're interested in updating the status of the weed patches marked as "Purple - Please Check".
 
 ---
-![00:00-00:06](Field Maps OMB.mp4)
+![00:00-00:06](CAMS Field Maps OMB.mp4)
 
 Click on the relevant weed marker.
 
@@ -178,7 +178,7 @@ You can work through the list until the relevant marker is highlighted. Alternat
 
 ---
 (video:
-  file: Field Maps OMB.mp4
+  file: CAMS Field Maps OMB.mp4
   segment: 00:07-00:16
   sync: match)
 
@@ -302,14 +302,14 @@ Click on the "CAMS public browser map" link in the description below to open it.
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:00-00:01)
 
 (pause: 1)
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:01-00:10
   sync: match)
 
@@ -317,7 +317,7 @@ After agreeing to the terms and conditions, this will open the map.
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:13-00:23
   sync: match)
 
@@ -325,7 +325,7 @@ We can either zoom and scroll or enter a nearby address to find the weed locatio
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:23-00:33
   sync: match)
 
@@ -333,7 +333,7 @@ Having found it we click on the link next to the iNaturalist URL.
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:33-00:39
   sync: match)
 
@@ -341,7 +341,7 @@ This opens up the iNaturalist observation that we need to update.
 
 ---
 (video:
-  file: Opening CAMS browser.mov
+  file: CAMS Weed App browser.mov
   segment: 00:39-00:39.1
   sync: match)
 
@@ -351,7 +351,7 @@ If you're not already, click on the link in the top right to Log In.
 
 ---
 (video:
-  file: Updating observation.mov
+  file: iNaturalist updating observation.mov
   segment: 00:00-00:14
   sync: match)
 
@@ -363,7 +363,7 @@ This observation is already added to the project so we click on the cog next to 
 
 ---
 (video:
-  file: Updating observation.mov
+  file: iNaturalist updating observation.mov
   segment: 00:14-00:43
   sync: match)
 
@@ -371,7 +371,7 @@ Update any of the fields that need modifying, clicking the Add button next to ea
 
 ---
 (video:
-  file: Updating observation.mov
+  file: iNaturalist updating observation.mov
   segment: 00:43-00:52
   sync: match)
 
@@ -391,7 +391,7 @@ Remember to click the Add button next to each changed field.
 
 ---
 (video:
-  file: Updating observation.mov
+  file: iNaturalist updating observation.mov
   segment: 00:40-00:40.1
   sync: match)
 
@@ -413,7 +413,7 @@ You have now updated the status of this weed patch.
 
 ---
 
-![](OMB Mortimer updated.png)
+![](CAMS Weed App OMB Mortimer updated.png)
 
 The map will be updated to show the new status within an hour after you've made the change.
 
@@ -424,7 +424,7 @@ If it's not updated, check that you filled in the fields shown in this video.
 Also check you have clicked the Add button next to each modified field.
 
 ---
-![](OMB Mortimer updated.png)
+![](CAMS Weed App OMB Mortimer updated.png)
 
 (callout:
   type: rectangle
