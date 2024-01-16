@@ -21,19 +21,19 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         api-key: ${{ secrets.NARAKEET_API_KEY }}
 
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       with:
         name: video
         path: 
           ${{ steps.video.outputs.video-file }}
 
-    - uses: actions/upload-artifact@v1
-      with:
-        name: subtitles
-        path: 
-          ${{ steps.video.outputs.srt-file }}
+    # - uses: actions/upload-artifact@v4
+    #   with:
+    #     name: subtitles
+    #     path: 
+    #       ${{ steps.video.outputs.srt-file }}
 
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       with:
         name: poster
         path: 
