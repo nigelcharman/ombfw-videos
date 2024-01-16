@@ -26,15 +26,15 @@ jobs:
         name: video
         path: 
           ${{ steps.video.outputs.video-file }}
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: subtitles
+        path: 
+          ${{ steps.video.outputs.srt-file }}
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: poster
+        path: 
           ${{ steps.video.outputs.poster-file }}
-
-    # - uses: actions/upload-artifact@v4
-    #   with:
-    #     name: subtitles
-    #     path: 
-    #       ${{ steps.video.outputs.srt-file }}
-
-    # - uses: actions/upload-artifact@v4
-    #   with:
-    #     name: poster
-    #     path: 
