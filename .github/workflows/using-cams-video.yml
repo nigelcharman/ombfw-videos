@@ -20,10 +20,11 @@ jobs:
         source-path: ${{env.VIDEO_FOLDER}}/script.md
         github-token: ${{ secrets.GITHUB_TOKEN }}
         api-key: ${{ secrets.NARAKEET_API_KEY }}
+
     - uses: actions/upload-artifact@v1
       with:
         name: video
-        path: |
-          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.video-file }}"
-          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.srt-file }}"
-          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.poster-file }}"
+        path: 
+          ${{ steps.video.outputs.video-file }}
+          ${{ steps.video.outputs.srt-file }}
+          ${{ steps.video.outputs.poster-file }}
