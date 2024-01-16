@@ -1,4 +1,4 @@
-name: Create "Update Old Man's Beard status" video
+name: Create "Using the CAMS weed map" video
 on:
   workflow_dispatch:
   # push:
