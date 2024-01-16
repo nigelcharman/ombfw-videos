@@ -17,13 +17,13 @@ jobs:
     - uses: narakeet/build-video-github-action@v1.0.5
       id: video
       with:
-        source-path: "$VIDEO_FOLDER/script.md"
+        source-path: ${{env.VIDEO_FOLDER}}/script.md
         github-token: ${{ secrets.GITHUB_TOKEN }}
         api-key: ${{ secrets.NARAKEET_API_KEY }}
     - uses: actions/upload-artifact@v1
       with:
         name: video
         path: |
-          "$VIDEO_FOLDER/${{ steps.video.outputs.video-file }}"
-          "$VIDEO_FOLDER/${{ steps.video.outputs.srt-file }}"
-          "$VIDEO_FOLDER/${{ steps.video.outputs.poster-file }}"
+          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.video-file }}"
+          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.srt-file }}"
+          "${{env.VIDEO_FOLDER}}/${{ steps.video.outputs.poster-file }}"
