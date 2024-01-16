@@ -26,6 +26,7 @@ jobs:
         name: video
         path: 
           ${{ steps.video.outputs.video-file }}
+          ${{ steps.video.outputs.poster-file }}
 
     # - uses: actions/upload-artifact@v4
     #   with:
@@ -33,8 +34,7 @@ jobs:
     #     path: 
     #       ${{ steps.video.outputs.srt-file }}
 
-    - uses: actions/upload-artifact@v4
-      with:
-        name: poster
-        path: 
-          ${{ steps.video.outputs.poster-file }}
+    # - uses: actions/upload-artifact@v4
+    #   with:
+    #     name: poster
+    #     path: 
