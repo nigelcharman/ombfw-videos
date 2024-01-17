@@ -17,7 +17,7 @@ voice: brooke
 
 (pause: 4)
 
-<!-- ---
+---
 ![](CAMS Weed App.png)
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we're using a map to manage and track our efforts in controlling the weed.
@@ -158,10 +158,10 @@ To zoom into your location, click on the circular "My Location" icon.
 ---
 ![00:04-00:13](CAMS Field Maps Zoom.mp4)
 
-You may need to zoom in further to get a clearer view. -->
+You may need to zoom in further to get a clearer view.
 
 <!-- It would be great if you can help us update the status of the weed patches marked as "Purple - Please Check". -->
-<!-- 
+
 ---
 ![00:00-00:06](CAMS Field Maps OMB.mp4)
 
@@ -273,4 +273,4 @@ Please email us questions or feedback at kiaora@`omb`free.nz.
 
 Thanks for watching!
 
-> Thanks for watching! -->
+> Thanks for watching!
