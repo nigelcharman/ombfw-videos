@@ -54,7 +54,9 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 
 You'll also need to be a member of the Weed Management Aotearoa NZ project on iNaturalist if you're not already.
 
-Open iNaturalist.org/projects/weed-management-aotearoa-nz, then click on "Yes, I want to join".
+Open the link shown and then click on "Yes, I want to join".
+
+The links in this video are also listed at ombfree.nz/maps.
 
 ---
 
@@ -68,7 +70,7 @@ Open iNaturalist.org/projects/weed-management-aotearoa-nz, then click on "Yes, I
 
 The easiest way to find the iNaturalist observation is via CAMS.
 
-Open the CAMS map on your browser, using the link cams.econet.nz/weed-app-browser-public.
+Open the CAMS map on your browser using the link shown.
 
 ---
 (video:
