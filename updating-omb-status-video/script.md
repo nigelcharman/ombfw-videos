@@ -19,28 +19,9 @@ voice: brooke
 
 (pause: 4)
 
----
-![](CAMS Weed App.png)
+We'd love your help to check Old Man's Beard patches and update their status.
 
-Hi! On our mission to make Wellington Old Man's Beard Free, we're using a map to manage and track our efforts in controlling the weed.
-
-With seeds viable for 10 years in the ground, we need to check annually for any re-growth or seedlings.
-
-This video shows you how to update the status of Old Man's Beard patches.
-
----
-
-![](Background Slide.png)
-
-```md
-# Finding known weed patches
-```
-
-(pause: 3)
-
-See our previous video "Using the CAMS weed map" to find existing patches.
-
-We'd love your help to check patches marked as "Purple - Please Check" and update their status.
+See our previous video "Using the CAMS weed map" to find existing Old Man's Beard patches that need checking.
 
 ---
 
@@ -52,11 +33,11 @@ We'd love your help to check patches marked as "Purple - Please Check" and updat
 
 We use iNaturalist, a citizen science platform, to report and update Old Man's Beard in Wellington.
 
-Observations are synchronised hourly from iNaturalist to the CAMS weed map.
+<!-- Observations are synchronised hourly from iNaturalist to the CAMS weed map.
 
-iNaturalist provides a mobile app and can be used via a browser.
+iNaturalist provides a mobile app and can be used via a browser. 
 
-To update the status of weed patches, we need to use the browser version (you can only currently update your own observations on mobile).
+To update the status of weed patches, we need to use the browser version (you can only currently update your own observations on mobile). -->
 
 ---
 ![](iNaturalist screenshot.png)
@@ -247,19 +228,13 @@ In time, we hope to develop a mobile app to make this easier.
 ## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
 ```
 
-We hope this video has been useful and you will help us update the status of our weed patches.
+We hope this video has been useful.
 
-This will help us prioritise our work towards an Old Man's Beard Free Wellington.
+> We hope this video has been useful.
 
----
+See also our video on adding a new Old Man's Beard patch to the map.
 
-![](Background Slide.png)
-
-```md
-## Please send feedback or questions to:
-
-## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
-```
+> See also our video on adding a new Old Man's Beard patch to the map.
 
 Please email us questions or feedback at kiaora@`omb`free.nz.
 
