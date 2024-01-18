@@ -31,9 +31,13 @@ This video shows you how to use iNaturalist to add an Old Man's Beard patch to t
 We use iNaturalist, a citizen science platform, to report and update Old Man's Beard in Wellington.
 
 ---
-![](iNaturalist screenshot.png)
+![](iNaturalist app Main.png)
 
-In order to report an Old Man's Beard patch, you'll need to have an iNaturalist account. If you don't have one already, sign up at iNaturalist.org.
+Install the app from the Play Store or App Store.
+
+Allow access to Photos and Location, which are needed to report the weed.
+
+Open the app, sign up and log in.
 
 ---
 
