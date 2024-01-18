@@ -7,34 +7,8 @@ on:
   # # pull_request:
   #   branches: [ $default-branch ]
 
-env:
-  VIDEO_FOLDER: using-cams-video  
-  
 jobs:
   build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: narakeet/build-video-github-action@v1.0.5
-      id: video
-      with:
-        source-path: ${{env.VIDEO_FOLDER}}/script.md
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        api-key: ${{ secrets.NARAKEET_API_KEY }}
-
-    - uses: actions/upload-artifact@v4
-      with:
-        name: video
-        path: 
-          ${{ steps.video.outputs.video-file }}
-
-    - uses: actions/upload-artifact@v4
-      with:
-        name: subtitles
-        path: 
-          ${{ steps.video.outputs.srt-file }}
-
-    - uses: actions/upload-artifact@v4
-      with:
-        name: poster
-        path: 
-          ${{ steps.video.outputs.poster-file }}
+    uses: nigelcharman/ombfw-videos/.github/workflows/create-video.yml@main
+    with:
+      video-folder: using-cams-video
