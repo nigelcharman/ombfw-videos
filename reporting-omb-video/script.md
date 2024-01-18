@@ -6,12 +6,9 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: external
 voice: brooke
-# voice-speed: 1.1
 ---
 
-
-
-<!-- ![](Background Slide - Title.png)
+![](Background Slide - Title.png)
 
 ```md
 # Reporting Old Man's Beard
@@ -36,7 +33,7 @@ We use iNaturalist, a citizen science platform, to report and update Old Man's B
 ---
 ![](iNaturalist screenshot.png)
 
-In order to report an Old Man's Beard patch, you'll need to have an iNaturalist account. If you don't have one already, sign up at iNaturalist.org. -->
+In order to report an Old Man's Beard patch, you'll need to have an iNaturalist account. If you don't have one already, sign up at iNaturalist.org.
 
 ---
 
