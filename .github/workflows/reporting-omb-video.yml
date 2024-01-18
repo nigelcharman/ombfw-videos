@@ -1,0 +1,15 @@
+name: Create "Reporting Old Man's Beard" video
+on:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  # # pull_request:
+  #   branches: [ $default-branch ]
+
+jobs:
+  build:
+    uses: nigelcharman/ombfw-videos/.github/workflows/create-video.yml@main
+    with:
+      video-folder: reporting-omb-video
+    secrets: inherit
