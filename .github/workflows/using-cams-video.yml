@@ -12,3 +12,4 @@ jobs:
     uses: nigelcharman/ombfw-videos/.github/workflows/create-video.yml@main
     with:
       video-folder: using-cams-video
+    secrets: inherit
