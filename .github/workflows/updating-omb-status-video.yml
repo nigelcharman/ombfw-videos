@@ -1,4 +1,4 @@
-name: Create "Using the CAMS weed map" video
+name: Create "Updating OMB status" video
 on:
   workflow_dispatch:
   # push:
