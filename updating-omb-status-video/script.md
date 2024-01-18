@@ -54,9 +54,15 @@ In order to update an observation, you'll need to have an iNaturalist account. I
 
 You'll also need to be a member of the Weed Management Aotearoa NZ project on iNaturalist if you're not already.
 
+> You'll also need to be a member of the Weed Management Aotearoa NZ project on iNaturalist if you're not already.
+
 Open the link shown and then click on "Yes, I want to join".
 
-The links in this video are also listed at ombfree.nz/maps.
+> Open the link shown and then click on "Yes, I want to join".
+
+The links in this video are also listed at `omb`free.nz/maps.
+
+> The links in this video are also listed at ombfree.nz/maps.
 
 ---
 
