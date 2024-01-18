@@ -1,0 +1,15 @@
+name: Create "Using the CAMS weed map" video
+on:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  # # pull_request:
+  #   branches: [ $default-branch ]
+
+jobs:
+  build:
+    uses: nigelcharman/ombfw-videos/.github/workflows/create-video.yml@main
+    with:
+      video-folder: updating-omb-status-video
+    secrets: inherit
