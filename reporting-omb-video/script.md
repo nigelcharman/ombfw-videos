@@ -6,6 +6,7 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: external
 voice: brooke
+poster-time: start
 ---
 
 ![](Background Slide - Title.png)
