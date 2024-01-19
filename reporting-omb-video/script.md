@@ -17,6 +17,10 @@ poster-time: start
 
 (pause: 4)
 
+---
+
+![](CAMS Web Wellington OMB Map.png)
+
 Hi! On our mission to make Wellington Old Man's Beard Free, we're using a map to manage and track our efforts in controlling the weed.
 
 This video shows you how to use iNaturalist to add an Old Man's Beard patch to the map.
@@ -34,7 +38,7 @@ We use iNaturalist, a citizen science platform, to report and update Old Man's B
 ---
 ![](iNaturalist app Main.png)
 
-Install the app from the Play Store or App Store.
+Install the iNaturalist app from the Play Store or App Store.
 
 Allow access to Photos and Location, which are needed to report the weed.
 
@@ -243,7 +247,7 @@ Finally, select the tick icon to add the observation.
   size: 35
 )
 
-Thanks for adding the observation. It will be synchronised to our CAMS map within an hour.
+The observation will be synchronised to our CAMS map within an hour.
 
 Watch the `Using the CAMS weed map video` to see how to view it.
 
