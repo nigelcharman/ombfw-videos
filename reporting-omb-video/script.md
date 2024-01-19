@@ -91,6 +91,12 @@ Click on Take Photo,
 
 ![](iNaturalist app OMB Photo 2.png)
 
+and take a photo of the Old Man's Beard,
+
+---
+
+![](iNaturalist app OMB Photo 2.png)
+
 (callout:
   type: circle
   cx: 1067
@@ -98,7 +104,7 @@ Click on Take Photo,
   size: 52
 )
 
-and take a photo of the Old Man's Beard, then click OK.
+then click OK.
 
 ---
 
@@ -115,18 +121,17 @@ Click on the Add Photo button to take additional photos.
 
 ---
 
-![](iNaturalist app OMB Photo 2.png)
-
-(callout:
-  type: circle
-  cx: 1067
-  cy: 981
-  size: 52
-)
+![](iNaturalist app OMB Photo 1.png)
 
 To help with identification and locating the patch in future, we recommend taking at least 2 photos.
 
-Take a close-up of the vine and a photo of the entire patch if possible.
+Take a close-up of the vine 
+
+---
+
+![](iNaturalist app OMB Photo 2.png)
+
+and a photo of the entire patch if possible.
 
 ---
 
@@ -196,6 +201,8 @@ Check the location by clicking on the reported location.
 
 Move the map around and zoom in to get an accurate location. 
 
+This is important so we can find the weed in future to control it.
+
 It may be useful to switch to the Satellite view using the icon in the bottom right.
 
 ---
@@ -237,17 +244,17 @@ Finally, select the tick icon to add the observation.
 
 Thanks for adding the observation. It will be synchronised to our CAMS map within an hour.
 
-Watch our "Using the CAMS weed map video" to see how to view it.
+Watch the `Using the CAMS weed map video` to see how to view it.
 
 ---
 
 ![](iNaturalist app Weed Management Aotearoa NZ.png)
 
-Advanced users could also add the observation to our Weed Management Aotearoa NZ project which holds additional data about the weed patch.
+Advanced users could also add the observation to the `Weed Management Aotearoa NZ project` and fill in additional details.
 
-These additional fields are used to monitor and update the weed patch over time.
+These additional fields are used to manage the weed patch over time.
 
-See our "Updating Old Man's Beard status" video to find out more.
+See the `Updating Old Man's Beard status` video to find out more.
 
 ---
 
@@ -262,10 +269,6 @@ See our "Updating Old Man's Beard status" video to find out more.
 We hope this video has been useful.
 
 > We hope this video has been useful.
-
-See also our video on adding a new Old Man's Beard patch to the map.
-
-> See also our video on adding a new Old Man's Beard patch to the map.
 
 Please email us questions or feedback at kiaora@`omb`free.nz.
 
