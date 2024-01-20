@@ -6,13 +6,15 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: external
 voice: brooke
-# voice-speed: 1.1
+poster-time: start
 ---
 
 ![](Background Slide - Title.png)
 
 ```md
 # Using the CAMS weed map
+
+&nbsp;
 ```
 
 (pause: 4)
@@ -43,7 +45,7 @@ Subsequent videos will show you how to use iNaturalist to add a new Old Man's Be
 ```md
 ## Installing the weed map
 
-### cams.econet.nz/public
+### ombfree.nz/mapping
 ```
 
 (pause: 1)
@@ -54,7 +56,7 @@ It can be used on your mobile device or in a browser on your computer.
 
 It is useful to install it on your mobile for use in the field.
 
-See cams.econet.nz/public for instructions on how to install or open the public map.
+See ombfree.nz/mapping for instructions on how to install or open the public map.
 
 ---
 
@@ -261,6 +263,8 @@ The subsequent video will show you how to update the status of a weed patch on t
 ## Please send feedback or questions to:
 
 ## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+
+&nbsp;
 ```
 
 We hope this video has been useful.

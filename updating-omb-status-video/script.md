@@ -6,7 +6,7 @@ background: ukulele-1 0.4 fade-in fade-out
 theme: light
 subtitles: external
 voice: brooke
-# voice-speed: 1.1
+poster-time: start
 ---
 
 
@@ -15,6 +15,8 @@ voice: brooke
 
 ```md
 # Updating Old Man's Beard status
+
+&nbsp;
 ```
 
 (pause: 4)
@@ -234,6 +236,8 @@ In time, we hope to develop a mobile app to make this easier.
 ## Please send feedback or questions to:
 
 ## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+
+&nbsp;
 ```
 
 We hope this video has been useful.
