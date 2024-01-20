@@ -13,6 +13,8 @@ poster-time: start
 
 ```md
 # Reporting Old Man's Beard
+
+&nbsp;
 ```
 
 (pause: 4)
@@ -269,6 +271,8 @@ See the `Updating Old Man's Beard status` video to find out more.
 ## Please send feedback or questions to:
 
 ## [kiaora@ombfree.nz](mailto:kiaora@ombfree.nz)
+
+&nbsp;
 ```
 
 We hope this video has been useful.
