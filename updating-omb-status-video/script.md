@@ -37,9 +37,9 @@ We use iNaturalist, a citizen science platform, to report and update Old Man's B
 
 <!-- Observations are synchronised hourly from iNaturalist to the CAMS weed map.
 
-iNaturalist provides a mobile app and can be used via a browser. 
+iNaturalist provides a mobile app and can be used via a browser. -->
 
-To update the status of weed patches, we need to use the browser version (you can only currently update your own observations on mobile). -->
+To update the status of weed patches, we need to use the browser version of iNaturalist. 
 
 ---
 ![](iNaturalist screenshot.png)
@@ -62,9 +62,9 @@ Open the link shown and then click on "Yes, I want to join".
 
 > Open the link shown and then click on "Yes, I want to join".
 
-The links in this video are also listed at `omb`free.nz/maps.
+The links in this video are also listed at `omb`free.nz/mapping.
 
-> The links in this video are also listed at ombfree.nz/maps.
+> The links in this video are also listed at ombfree.nz/mapping.
 
 ---
 
