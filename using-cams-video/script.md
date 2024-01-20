@@ -43,16 +43,16 @@ Subsequent videos will show you how to use iNaturalist to add a new Old Man's Be
 ![](Background Slide.png)
 
 ```md
-## Installing the weed map
+## Installing the CAMS weed map
 
 ### ombfree.nz/mapping
 ```
 
 (pause: 1)
 
-The public CAMS map shows weed patches entered using iNaturalist.
+The public CAMS map shows the weed patches entered using iNaturalist.
 
-> The public CAMS map shows weed patches entered using iNaturalist.
+> The public CAMS map shows the weed patches entered using iNaturalist.
 
 It can be installed on your mobile device or opened using your browser.
 
