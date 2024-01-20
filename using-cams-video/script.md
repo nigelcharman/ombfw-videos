@@ -177,14 +177,10 @@ You may need to zoom in further to get a clearer view.
 
 Click on the relevant weed marker on the map to select it.
 
-If there are a few weed markers close together, they may show up as a list. 
-
-In this case, you can either click on the relevant item on the list or zoom in further and click on the relevant marker on the map.
-
 ---
 (video:
   file: CAMS Field Maps OMB.mp4
-  segment: 00:07-00:16
+  segment: 00:07-00:12
   sync: match)
 
 Once the weed marker is selected, some basic information about the weed patch will be displayed.
@@ -193,6 +189,12 @@ The GPS position isn't always right, so you may need to hunt around to find the 
 
 If you need more info to help find it, click on the link under iNaturalist URL. 
 
+---
+(video:
+  file: CAMS Field Maps OMB.mp4
+  segment: 00:12-00:16
+  sync: match)
+  
 This will open the iNaturalist page which shows more details, including photos, to help you find it.
 
 ---
