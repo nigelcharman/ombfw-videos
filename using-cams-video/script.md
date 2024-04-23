@@ -26,17 +26,15 @@ Hi! On our mission to make Wellington Old Man's Beard Free, we're using a map to
 
 This map is colour coded to show which patches need control, which patches have been controlled, and which patches need checking.
 
-The map was developed by EcoNet as part of its CAMS (Conservation Activity Management System) suite.
+The map was developed by EcoNet as part of its award winning CAMS (Conservation Activity Management System) suite.
 
 With over 3,000 reported Old Man's Beard patches, we can't check them all!
 
-We'd love your help to check some of them and update this map. 
+We'd love your help to check and update them.
 
-This video shows you how to use the CAMS map. 
+This video shows you how find them and update their status on this map.
 
-We've adapted the map to allow you to enter new weeds and update their status using the iNaturalist platform.
-
-Subsequent videos will show you how to use iNaturalist to add a new Old Man's Beard patch or to update the status of a patch on this map.
+To add a new OMB patch, see the "Reporting Old Man's Beard" video.
 
 ---
 
@@ -170,8 +168,6 @@ To zoom into your location, click on the circular "My Location" icon.
 
 You may need to zoom in further to get a clearer view.
 
-<!-- It would be great if you can help us update the status of the weed patches marked as "Purple - Please Check". -->
-
 ---
 ![00:00-00:06](CAMS Field Maps OMB.mp4)
 
@@ -180,7 +176,7 @@ Click on the relevant weed marker on the map to select it.
 ---
 (video:
   file: CAMS Field Maps OMB.mp4
-  segment: 00:07-00:12
+  segment: 00:07-00:10
   sync: match)
 
 Once the weed marker is selected, some basic information about the weed patch will be displayed.
@@ -198,6 +194,35 @@ If you need more info to help find it, click on the link under iNaturalist URL.
 This will open the iNaturalist page which shows more details, including photos, to help you find it.
 
 ---
+
+(video:
+![](Background Slide.png)
+
+(font-size: 36)
+
+```md
+# Updating the weed status
+```
+
+---
+
+(pause: 3)
+  file: OMB Status Update.mp4
+  segment: 00:10-00:38
+  sync: match)
+  
+Going back to the CAMS app, under the weed information you'll see the "Update Weed Status" button.
+
+Click on this to update the status.
+
+This will prompt you to log onto iNaturalist if you're not logged in already.
+
+If you have controlled the weed patch, click "Controlled". Otherwise click "Alive" or "Dead" as appropriate.
+
+After filling in relevant details, click the "Update Observation" button. This will update the iNaturalist observation. The weed status on the CAMS map will be updated within the hour.
+
+---
+
 
 ![](Background Slide.png)
 
@@ -261,9 +286,13 @@ But I can see some regrowth at the top of the bank.
 
 ---
 
-![](OMB Mortimer 1.jpeg)
+(video:
+  file: OMB Status Update Example.mp4
+  sync: match)
 
-The subsequent video will show you how to update the status of a weed patch on the map.
+(voice: keith)
+
+I'll update the weed status to say it's Alive and fill in some details.
 
 ---
 
