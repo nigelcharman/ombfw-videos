@@ -32,7 +32,7 @@ With over 3,000 reported Old Man's Beard patches, we can't check them all!
 
 We'd love your help to check and update them.
 
-This video shows you how find them and update their status on this map.
+This video shows you how to find them and update their status on this map.
 
 To add a new OMB patch, see the "Reporting Old Man's Beard" video.
 
@@ -195,7 +195,7 @@ This will open the iNaturalist page which shows more details, including photos, 
 
 ---
 
-(video:
+
 ![](Background Slide.png)
 
 (font-size: 36)
@@ -204,9 +204,11 @@ This will open the iNaturalist page which shows more details, including photos, 
 # Updating the weed status
 ```
 
+(pause: 3)
+
 ---
 
-(pause: 3)
+(video:
   file: OMB Status Update.mp4
   segment: 00:10-00:38
   sync: match)
