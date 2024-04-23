@@ -34,8 +34,6 @@ We'd love your help to check and update them.
 
 This video shows you how to find them and update their status on this map.
 
-To add a new OMB patch, see the "Reporting Old Man's Beard" video.
-
 ---
 
 ![](Background Slide.png)
@@ -295,6 +293,8 @@ But I can see some regrowth at the top of the bank.
 (voice: keith)
 
 I'll update the weed status to say it's Alive and fill in some details.
+
+(pause: 2)
 
 ---
 
