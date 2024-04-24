@@ -251,7 +251,7 @@ Finally, select the tick icon to add the observation.
 
 The observation will be synchronised to our CAMS map within an hour.
 
-Watch the `Using the CAMS weed map video` to see how to view it.
+Watch the `Using the CAMS weed map video` to see how to view and update it.
 
 ---
 
@@ -260,8 +260,6 @@ Watch the `Using the CAMS weed map video` to see how to view it.
 Advanced users could also add the observation to the `Weed Management Aotearoa NZ project` and fill in additional details.
 
 These additional fields are used to manage the weed patch over time.
-
-See the `Updating Old Man's Beard status` video to find out more.
 
 ---
 
