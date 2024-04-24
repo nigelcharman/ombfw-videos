@@ -12,7 +12,8 @@ poster-time: start
 ![](Background Slide - Title.png)
 
 ```md
-## Finding and Updating the Status of Old Man's Beard patches
+# Using the CAMS Weed Map
+## to find and update the status of Old Man's Beard
 
 &nbsp;
 ```
